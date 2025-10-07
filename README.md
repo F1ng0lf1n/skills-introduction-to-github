@@ -46,6 +46,7 @@ As noted in the previous step, you may have seen evidence of GitHub Actions runn
 > Check out the **Finish** step to see what you can learn next!
 
 <footer>
+![Main-buliding-on-campus-1024x576](https://github.com/user-attachments/assets/ec72daf4-07d9-46a0-b4cd-44b5a42741aa)
 
 <!--
   <<< Author notes: Footer >>>
