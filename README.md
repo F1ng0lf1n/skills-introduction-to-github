@@ -49,7 +49,8 @@ Check out these resources to learn more or get involved:
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
-![Main-buliding-on-campus-1024x576](https://github.com/user-attachments/assets/ec72daf4-07d9-46a0-b4cd-44b5a42741aa)
+![Main-buliding-on-campus-1024x576](https://github.com/user-attachments/assets/e1272cea-cdfe-4504-b4cb-cada2d93d4bb)
+
 
 <!--
   <<< Author notes: Footer >>>
